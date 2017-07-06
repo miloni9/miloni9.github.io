@@ -3,9 +3,9 @@
   "short_name": "Miloni",
   "icons": [
     {
-      "src": "assets/favicon.ico",
+      "src": "assets/mili.png",
       "sizes": "192x192",
-      "type": "image\/ico"
+      "type": "image\/png"
     }
   ],
   "display": "standalone",
